@@ -20,8 +20,8 @@ A Python-based graphical application for sending binary files over serial connec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Ymodemsend.git
-cd Ymodemsend
+git clone https://github.com/Darouez-Oussama/Ymodem-BinaryFileSender-GUI.git
+cd Ymodem-BinaryFileSender-GUI
 ```
 
 2. Install required dependencies:
